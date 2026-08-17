@@ -1,0 +1,12 @@
+client_id,client_name,industry,gross_revenue,net_profit,profit_margin_pct,mom_growth_pct,avg_csat,churn_risk_flag
+CLT-105,Vanguard BioMed,Healthcare,"$38,236.66","$21,915.38",57.3%,0.3%,3.08,STABLE
+CLT-109,CyberShield Security,SaaS,"$28,799.67","$18,716.47",65.0%,4.2%,4.41,STABLE
+CLT-102,Finova Capital,FinTech,"$27,586.49","$17,019.68",61.7%,-3.7%,4.67,STABLE
+CLT-101,Apex Health Systems,Healthcare,"$26,853.02","$15,453.94",57.5%,-2.6%,3.09,STABLE
+CLT-107,BlueSky Tech,SaaS,"$26,457.48","$16,307.34",61.6%,2.7%,4.18,STABLE
+CLT-108,Global Trade Corp,Logistics,"$17,699.26","$10,978.23",62.0%,5.1%,4.31,STABLE
+CLT-103,Nexus Logistics,Logistics,"$14,204.56","$8,316.06",58.5%,-2.7%,4.01,STABLE
+CLT-104,Quantum Retail,E-Commerce,"$13,749.90","$8,290.24",60.3%,-3.6%,4.35,STABLE
+CLT-110,OmniPay Solutions,FinTech,"$13,643.99","$8,406.66",61.6%,5.7%,2.24,RISK
+CLT-112,Velocity Mobility,Automotive,"$10,619.67","$6,773.06",63.8%,-2.1%,4.09,STABLE
+CLT-111,GreenGrid Energy,CleanTech,"$5,799.50","$3,394.83",58.5%,5.0%,4.03,STABLE
